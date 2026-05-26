@@ -1,0 +1,12 @@
+{
+  "name": "studio-cinema-tauri-desktop",
+  "version": "1.0.0",
+  "description": "Studio Cinema SCENA Desktop App via Tauri",
+  "scripts": {
+    "tauri": "tauri",
+    "icon": "tauri icon scena_icon.png"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.11"
+  }
+}
