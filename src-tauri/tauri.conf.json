@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "scena",
-    "version": "0.1.0"
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -35,7 +35,8 @@
         "exceptionDomain": "",
         "frameworks": [],
         "providerShortName": null,
-        "signingIdentity": null
+        "signingIdentity": null,
+        "hardenedRuntime": true
       },
       "resources": [],
       "shortDescription": "",
