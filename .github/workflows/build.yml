@@ -47,5 +47,5 @@ jobs:
           tagName: app-v__VERSION__
           releaseName: "Studio Cinema Desktop v__VERSION__"
           releaseBody: "Compilazione automatica del pannello desktop per Windows e macOS."
-          releaseDraft: true
+          releaseDraft: false
           prerelease: false
